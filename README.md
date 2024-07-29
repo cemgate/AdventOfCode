@@ -6,7 +6,7 @@ This is my repository with solutions to the tasks from [Advent of Code](https://
 
 ## How to Use This Repository
 
-Each folder corresponds to a specific year and contains my solutions for that year's challenges. The solutions are written in C++.
+Each folder corresponds to a specific year and contains my solutions for that year's challenges. 
 
 ### Example
 
